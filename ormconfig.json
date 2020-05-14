@@ -4,7 +4,7 @@
   "port": 5432,
   "username": "postgres",
   "password": "docker",
-  "database": "gostack_desafio_06",
+  "database": "gostack_desafio_06_tests",
   "entities": [
     "./src/models/*.ts"
   ],
